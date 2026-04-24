@@ -1,0 +1,11 @@
+city,local_authority,median_annual_salary,salary_source,median_monthly_rent,rent_source,monthly_takehome,monthly_transport,monthly_disposable,rent_pct_takehome,annual_savings,rent_over_30pct,disposable_rank
+London,London,47441,ONS ASHE Table 7.7a 2024,2121.0,ONS/VOA Private Rental Market 2024,3023.52,165,737.52,70.2,8850.24,True,10
+Manchester,Manchester,34531,ONS ASHE Table 7.7a 2024,1100.0,ONS/VOA Private Rental Market 2024,2291.96,75,1116.96,48.0,13403.52,True,9
+Birmingham,Birmingham,37295,ONS ASHE Table 7.7a 2024,1050.0,ONS/VOA Private Rental Market 2024,2448.58,70,1328.58,42.9,15942.96,True,7
+Leeds,Leeds,36770,ONS ASHE Table 7.7a 2024,1000.0,ONS/VOA Private Rental Market 2024,2418.83,65,1353.83,41.3,16245.96,True,6
+Bristol,"Bristol, City of",39441,ONS ASHE Table 7.7a 2024,1350.0,ONS/VOA Private Rental Market 2024,2570.19,72,1148.19,52.5,13778.28,True,8
+Edinburgh,City of Edinburgh,41529,ONS ASHE Table 7.7a 2024,1250.0,Scottish Gov Private Rent Statistics 2024,2688.51,68,1370.51,46.5,16446.12,True,5
+Newcastle,Newcastle upon Tyne,35212,ONS ASHE Table 7.7a 2024,800.0,ONS/VOA Private Rental Market 2024,2330.55,58,1472.55,34.3,17670.6,True,3
+Cardiff,Cardiff,36199,ONS ASHE Table 7.7a 2024,950.0,ONS/VOA Private Rental Market 2024,2386.48,62,1374.48,39.8,16493.76,True,4
+Sheffield,Sheffield,36402,ONS ASHE Table 7.7a 2024,825.0,ONS/VOA Private Rental Market 2024,2397.98,60,1512.98,34.4,18155.76,True,1
+Liverpool,Liverpool,36579,ONS ASHE Table 7.7a 2024,850.0,ONS/VOA Private Rental Market 2024,2408.01,63,1495.01,35.3,17940.12,True,2
